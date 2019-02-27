@@ -1,2 +1,2 @@
 # goNodeModulo3
-Challenge code produced in the second module of the NodeJs Bootcamp
+Challenge code produced in the third module of the NodeJs Bootcamp
